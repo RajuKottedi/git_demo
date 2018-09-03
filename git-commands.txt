@@ -1,0 +1,26 @@
+Git Commands
+
+git init
+
+git add file
+git add .
+
+git commit -m "commit message"
+
+git remote add origin <repository url>
+
+git remote set-url origin <repository url>
+
+git pull origin master
+
+git push -u origin master
+
+git branch
+
+git branch new-branch
+
+git merge <branch-name>
+
+git status
+
+git log
