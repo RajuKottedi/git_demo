@@ -17,7 +17,9 @@ git push -u origin master
 
 git branch
 
-git branch new-branch
+git branch <new-branch-name>
+
+git checkout <branch-name>
 
 git merge <branch-name>
 
